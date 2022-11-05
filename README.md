@@ -2,7 +2,7 @@
 
 <div>
   
-![header](https://capsule-render.vercel.app/api?type=Waving&color=1A1B27&height=300&section=header&text=Yeongjun%20Kim&fontSize=90&fontColor=FFFFFF)  
+![header](https://capsule-render.vercel.app/api?type=Waving&color=1A1B27&height=300&section=header&text=welcome&fontSize=90&fontColor=FFFFFF)  
   
 ![dudwns's github stats](https://github-readme-stats.vercel.app/api?username=dudwns&show_icons=true&theme=tokyonight&hide_rank=true) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dudwns&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 </div>
