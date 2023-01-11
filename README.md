@@ -10,10 +10,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dudwns&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 </div>
-
-  
-<h4>✉️Email✉️</h4>
-rkalseo@gmail.com
   
 <h4>💻Tech Stack💻</h4>
 <div>
@@ -32,4 +28,6 @@ rkalseo@gmail.com
   <a href="https://www.facebook.com/profile.php?id=100007863131781"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-                square&logo=Facebook&logoColor=white"/></a>
   <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdudwns%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
 </div>
+<h4>✉️Email✉️</h4>
+rkalseo@gmail.com
 </div>
